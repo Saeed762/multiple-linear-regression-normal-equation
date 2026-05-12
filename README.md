@@ -163,7 +163,7 @@ Possible future improvements:
 
 # Author
 
-Ali Mizard
+saeed hafez
 
-Software Engineering Student  
+ml and sw engineer Student  
 Interested in AI, Machine Learning, and NLP.
